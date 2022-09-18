@@ -8,7 +8,7 @@
 </p>
 
 # OneDrive - Fix Duplicates
-Ever have duplicate errors when syncing OneDrive? This program optionally replaces your OneDrive if found to be not as recent. 
+Ever have duplicate errors when syncing OneDrive? This program optionally replaces your OneDrive files. This program assumes the original local files on your computer are the most up to date. 
   
 <img src="https://github.com/shockelite/OneDrive-FixDuplicates/blob/master/Images/Screenshot1.png?raw=true" alt="Screenshot 1">
 
