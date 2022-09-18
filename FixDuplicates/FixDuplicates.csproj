@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>FixDuplicates.Program</StartupObject>
+    <Authors>Shockelite</Authors>
+    <Description>Delete duplicate files from a bad OneDrive sync.</Description>
+  </PropertyGroup>
+
+</Project>
