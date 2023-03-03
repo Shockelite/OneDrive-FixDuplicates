@@ -8,7 +8,7 @@
 </p>
 
 # OneDrive - Fix Duplicates
-Ever have duplicate errors when syncing OneDrive? This program optionally replaces your OneDrive files. This program assumes the file ending in -<COMPUTER NAME> is the most up to date. 
+Ever have duplicate errors when syncing OneDrive? This program optionally replaces your OneDrive files. This program assumes the file ending in -\<COMPUTER NAME\> is the most up to date. 
   
 <img src="https://github.com/shockelite/OneDrive-FixDuplicates/blob/master/Images/Screenshot1.png?raw=true" alt="Screenshot 1">
 
